@@ -41,9 +41,25 @@
 
 Note: Only captures the top 40 listings per event (StubHub's first page, sorted by "Recommended"). Not exhaustive — use section_prices.csv for full coverage of all sections.
 
-## viewers.csv — Page traffic (1 row/scrape)
+## event_summary.csv — Per-event demand signals (1 row per event per scrape)
+
+| Column | Type | Example | Description |
+|---|---|---|---|
+| scraped_at | datetime | 2026-06-04T22:32:59Z | UTC timestamp |
+| event_id | int | 160286427 | StubHub event ID |
+| event_name | string | San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3) | Full event title |
+| event_date | datetime | 2026-06-08T20:30:00 | Event start time |
+| venue | string | Madison Square Garden | Venue name |
+| total_listings | int | 199 | Total number of active seller listings for this event — supply indicator |
+| min_price | float | 7392.65 | Cheapest ticket available for this event (USD, includes fees) |
+| max_price | float | 752598.72 | Most expensive listing for this event |
+| tag | string | Selling fast | StubHub demand signal badge. Values: Hottest event, Selling fast, Best value, or blank |
+
+## viewers.csv — Performer page metadata (1 row/scrape)
 
 | Column | Type | Example | Description |
 |---|---|---|---|
 | scraped_at | datetime | 2026-06-04T22:20:54Z | UTC timestamp |
 | viewers_past_hour | int | 10422 | Number of people who viewed Knicks events on StubHub in the past hour (as reported by StubHub) |
+| followers | string | 53.8K | StubHub follower count for the Knicks performer page |
+| event_count | int | 6 | Number of upcoming events listed on the performer page |
