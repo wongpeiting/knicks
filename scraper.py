@@ -24,6 +24,7 @@ PERFORMER_URL = "https://www.stubhub.com/new-york-knicks-tickets/performer/2742"
 DATA_DIR = Path(__file__).parent / "data"
 SECTIONS_CSV = DATA_DIR / "section_prices.csv"
 LISTINGS_CSV = DATA_DIR / "listings.csv"
+VIEWERS_CSV = DATA_DIR / "viewers.csv"
 LATEST_JSON = DATA_DIR / "latest.json"
 
 SECTION_FIELDS = [
@@ -58,9 +59,10 @@ def create_browser():
 
 
 def get_event_urls(page):
-    """Load the Knicks performer page and extract event URLs.
+    """Load the Knicks performer page and extract event URLs + viewer count.
 
     Reuses the provided page so WAF tokens carry over to event page loads.
+    Returns (events_list, viewer_count).
     """
     print(f"Loading performer page: {PERFORMER_URL}")
     page.goto(PERFORMER_URL, wait_until="domcontentloaded", timeout=60000)
@@ -68,6 +70,14 @@ def get_event_urls(page):
 
     title = page.title()
     print(f"  Title: {title}")
+
+    # Extract viewer count ("X people viewed ... in the past hour")
+    body_text = page.inner_text("body")
+    viewer_count = 0
+    viewer_match = re.search(r"([\d,]+)\s+people viewed", body_text)
+    if viewer_match:
+        viewer_count = int(viewer_match.group(1).replace(",", ""))
+        print(f"  Viewers: {viewer_count:,} people in the past hour")
 
     # Extract event links with text
     raw_links = page.eval_on_selector_all(
@@ -94,7 +104,7 @@ def get_event_urls(page):
             events.append({"url": url, "text": text})
 
     print(f"  Found {len(events)} Knicks events")
-    return events
+    return events, viewer_count
 
 
 def extract_event_data(html):
@@ -296,6 +306,18 @@ def scrape_event(page, event_url, max_retries=2):
     return result
 
 
+def save_viewers(viewer_count):
+    """Append viewer count to viewers CSV."""
+    DATA_DIR.mkdir(exist_ok=True)
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    file_exists = VIEWERS_CSV.exists()
+    with open(VIEWERS_CSV, "a", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["scraped_at", "viewers_past_hour"])
+        if not file_exists:
+            writer.writeheader()
+        writer.writerow({"scraped_at": now, "viewers_past_hour": viewer_count})
+
+
 def save_data(all_events):
     """Save scraped data to CSVs and JSON snapshot."""
     DATA_DIR.mkdir(exist_ok=True)
@@ -351,11 +373,14 @@ def main():
         page = context.new_page()
         stealth.apply_stealth_sync(page)
 
-        # Step 1: Get event URLs from performer page
-        event_links = get_event_urls(page)
+        # Step 1: Get event URLs + viewer count from performer page
+        event_links, viewer_count = get_event_urls(page)
         if not event_links:
             print("ERROR: No events found on performer page")
             return
+
+        # Save viewer count immediately
+        save_viewers(viewer_count)
 
         # Step 2: Scrape each event page (reusing the same page)
         all_events = []
