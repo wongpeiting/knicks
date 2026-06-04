@@ -25,7 +25,13 @@ DATA_DIR = Path(__file__).parent / "data"
 SECTIONS_CSV = DATA_DIR / "section_prices.csv"
 LISTINGS_CSV = DATA_DIR / "listings.csv"
 VIEWERS_CSV = DATA_DIR / "viewers.csv"
+EVENT_SUMMARY_CSV = DATA_DIR / "event_summary.csv"
 LATEST_JSON = DATA_DIR / "latest.json"
+
+EVENT_SUMMARY_FIELDS = [
+    "scraped_at", "event_id", "event_name", "event_date", "venue",
+    "total_listings", "min_price", "max_price", "tag",
+]
 
 SECTION_FIELDS = [
     "scraped_at", "event_id", "event_name", "event_date", "venue",
@@ -59,10 +65,10 @@ def create_browser():
 
 
 def get_event_urls(page):
-    """Load the Knicks performer page and extract event URLs + viewer count.
+    """Load the Knicks performer page and extract event URLs + page metadata.
 
     Reuses the provided page so WAF tokens carry over to event page loads.
-    Returns (events_list, viewer_count).
+    Returns (events_list, page_meta dict).
     """
     print(f"Loading performer page: {PERFORMER_URL}")
     page.goto(PERFORMER_URL, wait_until="domcontentloaded", timeout=60000)
@@ -71,40 +77,68 @@ def get_event_urls(page):
     title = page.title()
     print(f"  Title: {title}")
 
-    # Extract viewer count ("X people viewed ... in the past hour")
     body_text = page.inner_text("body")
+
+    # --- Page-level metadata ---
     viewer_count = 0
     viewer_match = re.search(r"([\d,]+)\s+people viewed", body_text)
     if viewer_match:
         viewer_count = int(viewer_match.group(1).replace(",", ""))
-        print(f"  Viewers: {viewer_count:,} people in the past hour")
 
-    # Extract event links with text
+    followers = ""
+    # Follower count appears as "53.8K" near "Follow" on the performer page
+    follower_match = re.search(r"([\d.]+[KMkm]?)\n", body_text)
+    if follower_match:
+        followers = follower_match.group(1)
+
+    event_count = 0
+    event_count_match = re.search(r"(\d+)\s+(?:playoff\s+)?events?", body_text)
+    if event_count_match:
+        event_count = int(event_count_match.group(1))
+
+    page_meta = {
+        "viewers_past_hour": viewer_count,
+        "followers": followers,
+        "event_count": event_count,
+    }
+    print(f"  Viewers: {viewer_count:,} | Followers: {followers} | Events: {event_count}")
+
+    # --- Event links with demand tags ---
     raw_links = page.eval_on_selector_all(
         'a[href*="/event/"]',
         """els => els.map(e => ({
             href: e.href,
-            text: e.innerText.replace(/\\n/g, ' | ').substring(0, 300)
+            text: e.innerText.replace(/\\n/g, ' | ').substring(0, 400)
         }))"""
     )
 
-    # Deduplicate and filter to Knicks events
+    # Known StubHub demand signal tags
+    TAG_KEYWORDS = [
+        "Hottest event", "Selling fast", "Best value",
+        "Popular", "Almost sold out", "Limited availability",
+    ]
+
     seen = set()
     events = []
     for link in raw_links:
-        url = link["href"].split("?")[0]  # Strip query params
+        url = link["href"].split("?")[0]
         if url in seen:
             continue
         seen.add(url)
         text = link["text"].strip()
-        # Only keep links with event text (Knicks-related)
         if text and ("knick" in text.lower() or "nyk" in text.lower()
                       or "spurs" in text.lower() or "nba" in text.lower()
                       or "game" in text.lower()):
-            events.append({"url": url, "text": text})
+            # Extract demand tag from event card text
+            tag = ""
+            for kw in TAG_KEYWORDS:
+                if kw.lower() in text.lower():
+                    tag = kw
+                    break
+            events.append({"url": url, "text": text, "tag": tag})
 
     print(f"  Found {len(events)} Knicks events")
-    return events, viewer_count
+    return events, page_meta
 
 
 def extract_event_data(html):
@@ -306,16 +340,17 @@ def scrape_event(page, event_url, max_retries=2):
     return result
 
 
-def save_viewers(viewer_count):
-    """Append viewer count to viewers CSV."""
+def save_viewers(page_meta):
+    """Append performer page metadata to viewers CSV."""
     DATA_DIR.mkdir(exist_ok=True)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    fields = ["scraped_at", "viewers_past_hour", "followers", "event_count"]
     file_exists = VIEWERS_CSV.exists()
     with open(VIEWERS_CSV, "a", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["scraped_at", "viewers_past_hour"])
+        writer = csv.DictWriter(f, fieldnames=fields)
         if not file_exists:
             writer.writeheader()
-        writer.writerow({"scraped_at": now, "viewers_past_hour": viewer_count})
+        writer.writerow({"scraped_at": now, **page_meta})
 
 
 def save_data(all_events):
@@ -347,6 +382,25 @@ def save_data(all_events):
                 row.update(listing)
                 writer.writerow(row)
 
+    # --- Event summary CSV (append) ---
+    summary_exist = EVENT_SUMMARY_CSV.exists()
+    with open(EVENT_SUMMARY_CSV, "a", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=EVENT_SUMMARY_FIELDS)
+        if not summary_exist:
+            writer.writeheader()
+        for event in all_events:
+            writer.writerow({
+                "scraped_at": now,
+                "event_id": event["event_id"],
+                "event_name": event["event_name"],
+                "event_date": event["event_date"],
+                "venue": event["venue"],
+                "total_listings": event["total_listings"],
+                "min_price": event["min_price"],
+                "max_price": event["max_price"],
+                "tag": event.get("tag", ""),
+            })
+
     # --- Latest snapshot JSON ---
     snapshot = {
         "scraped_at": now,
@@ -361,6 +415,7 @@ def save_data(all_events):
     print(f"  {len(all_events)} events, {total_sections} section prices, {total_listings} listings")
     print(f"  Section CSV: {SECTIONS_CSV}")
     print(f"  Listings CSV: {LISTINGS_CSV}")
+    print(f"  Event summary: {EVENT_SUMMARY_CSV}")
     print(f"  Snapshot: {LATEST_JSON}")
 
 
@@ -373,14 +428,14 @@ def main():
         page = context.new_page()
         stealth.apply_stealth_sync(page)
 
-        # Step 1: Get event URLs + viewer count from performer page
-        event_links, viewer_count = get_event_urls(page)
+        # Step 1: Get event URLs + page metadata from performer page
+        event_links, page_meta = get_event_urls(page)
         if not event_links:
             print("ERROR: No events found on performer page")
             return
 
-        # Save viewer count immediately
-        save_viewers(viewer_count)
+        # Save performer page metadata immediately
+        save_viewers(page_meta)
 
         # Step 2: Scrape each event page (reusing the same page)
         all_events = []
@@ -388,6 +443,7 @@ def main():
             print(f"\nEvent {i + 1}/{len(event_links)}")
             result = scrape_event(page, event_link["url"])
             if result:
+                result["tag"] = event_link.get("tag", "")
                 all_events.append(result)
             # Polite delay between requests
             if i < len(event_links) - 1:
