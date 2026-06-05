@@ -2,7 +2,7 @@ name: Scrape StubHub Knicks Prices
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch: # Allow manual trigger
 
 permissions:
