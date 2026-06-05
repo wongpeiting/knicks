@@ -2,8 +2,10 @@ name: Scrape StubHub Knicks Prices
 
 on:
   schedule:
-    # Run every hour
+    # Run every hour (GitHub cron is unreliable, external cron is primary)
     - cron: "0 * * * *"
+  repository_dispatch:
+    types: [scrape]
   workflow_dispatch: # Allow manual trigger
 
 permissions:
