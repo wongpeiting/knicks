@@ -11,3 +11,9 @@ scraped_at,event_id,event_name,event_date,venue,total_listings,min_price,max_pri
 2026-06-04T23:11:56Z,160287605,"New York Knicks at San Antonio Spurs: NBA Finals   (Home Game 2, Series Game 2)",2026-06-05T19:30:00,Frost Bank Center (Formerly AT&T Center),350,744.36,112082.9,Hottest event
 2026-06-04T23:11:56Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),214,1712.07,270965.75,Best value
 2026-06-04T23:11:56Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),115,2906.93,425042.75,
+2026-06-05T00:18:34Z,160287605,"New York Knicks at San Antonio Spurs: NBA Finals   (Home Game 2, Series Game 2)",2026-06-05T19:30:00,Frost Bank Center (Formerly AT&T Center),345,736.44,112082.9,Hottest event
+2026-06-05T00:18:34Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,196,7392.65,752598.72,Selling fast
+2026-06-05T00:18:34Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,228,7992.04,197840.25,Selling fast
+2026-06-05T00:18:34Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),214,1704.5,270965.75,
+2026-06-05T00:18:34Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,226,8352.04,1071002.75,
+2026-06-05T00:18:34Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),115,2906.93,425042.75,
