@@ -12,6 +12,7 @@ Requires: playwright, playwright-stealth
 
 import csv
 import json
+import random
 import re
 import time
 from datetime import datetime, timezone
@@ -47,15 +48,21 @@ LISTING_FIELDS = [
 ]
 
 
+USER_AGENTS = [
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+]
+
+
 def create_browser():
-    """Create a stealth Playwright browser context."""
+    """Create a stealth Playwright browser context with randomized fingerprint."""
     p = sync_playwright().start()
     browser = p.chromium.launch(headless=True)
     context = browser.new_context(
-        user_agent=(
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/131.0.0.0 Safari/537.36"
+        user_agent=random.choice(USER_AGENTS
         ),
         viewport={"width": 1920, "height": 1080},
         locale="en-US",
@@ -421,6 +428,12 @@ def save_data(all_events):
 
 def main():
     DATA_DIR.mkdir(exist_ok=True)
+
+    # Random delay to avoid looking like a bot swarm
+    delay = random.randint(10, 90)
+    print(f"Startup delay: {delay}s")
+    time.sleep(delay)
+
     p, browser, context, stealth = create_browser()
 
     try:
