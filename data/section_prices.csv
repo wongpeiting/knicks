@@ -16337,3 +16337,552 @@ scraped_at,event_id,event_name,event_date,venue,section_key,section_name,ticket_
 2026-06-06T13:59:39Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149115,,518,Plaza,71235.91,1,2,
 2026-06-06T13:59:39Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),8688_1481010,,8688,Courtside Boxes,81636.75,1,4,16
 2026-06-06T13:59:39Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),8688_1481005,,8688,Courtside Boxes,99129.75,1,4,16
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8152_139882,,8152,400 Level,9914.4,2,6,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139960,,3803,200 Level,10034.4,4,10,15
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8152_139887,,8152,400 Level,10091.75,3,6,6
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8152_139884,,8152,400 Level,10606.06,3,8,5
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139952,,3803,200 Level,10835.15,4,8,20
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139951,,3803,200 Level,11121.89,3,10,B25
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8152_139881,,8152,400 Level,11700.08,2,4,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139995,,3803,200 Level,11683.69,5,18,16
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139991,,3803,200 Level,11684.75,2,4,23
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8152_139886,,8152,400 Level,11743.75,2,6,6
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139987,,3803,200 Level,11790.95,2,4,4
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139959,,3803,200 Level,11817.5,5,10,10
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8152_139888,,8152,400 Level,12166.91,1,4,2
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139994,,3788,100 Level,12470.63,1,2,19
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8153_1000657,,8153,Chase Bridges,13277.75,1,2,2
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_140013,,3803,200 Level,13277.75,3,9,11
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139997,,3803,200 Level,13376.82,4,19,19
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139953,,3803,200 Level,13565.55,2,4,13
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139989,,3803,200 Level,13596.35,2,8,10
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8195_139991,,8195,200 Level Barstools,13828.56,1,4,B25
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8152_1638334,,8152,400 Level,13808.75,1,2,
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139993,,3803,200 Level,13861.85,5,16,15
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_219496,,3788,100 Level,14021.15,2,4,18
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_140011,,3803,200 Level,14220.28,3,10,20
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_140004,,3803,200 Level,14339.75,2,4,4
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8195_140004,,8195,200 Level Barstools,14882.55,1,2,BS6
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8152_139885,,8152,400 Level,14893.44,2,4,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139999,,3788,100 Level,14870.75,1,2,13
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139978,,3788,100 Level,14872.87,1,2,6
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_140006,,3788,100 Level,15115.01,3,10,20
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139980,,3788,100 Level,15342.28,4,11,11
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_140002,,3803,200 Level,15401.75,1,2,2
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8154_1000651,,8154,Chase Bridges Barstools,15631.5,1,2,BS3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139973,,3803,200 Level,15660.43,1,2,5
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139998,,3803,200 Level,15892.92,2,14,9
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139992,,3788,100 Level,15932.75,2,4,22
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_1638332,,3803,200 Level,16092.05,1,4,Packa
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_1638329,,3788,100 Level,16092.05,1,2,Packa
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_139985,,3803,200 Level,16209.91,1,2,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8154_1000654,,8154,Chase Bridges Barstools,16463.75,1,2,BS3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139996,,3788,100 Level,16822.65,2,6,22
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_140009,,3803,200 Level,16913.26,2,4,12
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,1427_88761,,1427,Risers,17699.21,1,2,12
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_140007,,3803,200 Level,17348.75,1,2,4
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_140010,,3788,100 Level,17371.76,3,6,19
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139976,,3788,100 Level,17767.83,1,6,10
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139981,,3788,100 Level,17764.7,1,2,9
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8154_1000653,,8154,Chase Bridges Barstools,18056.75,1,2,BS3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_139990,,3788,100 Level,18457.66,4,11,20
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3788_140001,,3788,100 Level,18577.13,2,4,15
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,1427_79228,,1427,Risers,18587.75,1,2,12
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,1427_108350,,1427,Risers,19767.75,1,2,6
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,1427_108347,,1427,Risers,19591.34,2,4,8
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,3803_140005,,3803,200 Level,19644.09,1,2,1
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_140008,,8186,Club Silver,20180.75,3,9,22
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8155_1529121,,8155,Madison Club,21171.95,1,2,SRO
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,1427_108351,,1427,Risers,21242.75,1,2,19
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_108350,,8177,Club Gold,22127.75,3,6,5
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_140001,,8186,Club Silver,22068.75,1,2,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_139981,,8186,Club Silver,22131.3,3,6,6
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_92883,,8177,Club Gold,22472.02,2,4,4
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_139984,,8186,Club Silver,24422.38,1,2,21
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,1427_92883,,1427,Risers,24502.24,1,2,6
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_140003,,8177,Club Gold,24959.75,2,4,12
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_140003,,8186,Club Silver,25893.6,1,2,22
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_79228,,8177,Club Gold,25894.31,2,4,4
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_139990,,8186,Club Silver,26021.75,1,2,5
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_139984,,8177,Club Gold,26552.75,1,2,17
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_139986,,8177,Club Gold,27992.72,3,10,12
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_139988,,8186,Club Silver,28145.75,1,5,21
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_140006,,8186,Club Silver,28213.52,1,4,8
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_140008,,8177,Club Gold,28490.05,2,4,11
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8155_1637594,,8155,Madison Club,28617.75,1,4,2
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_219497,,8186,Club Silver,28605.27,2,4,20
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_139988,,8177,Club Gold,28995.35,1,2,13
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,4694_139986,,4694,Club Platinum,29012.34,2,4,7
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_219497,,8177,Club Gold,29372.36,3,12,12
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_108347,,8177,Club Gold,29510.47,2,4,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_108351,,8177,Club Gold,29737.69,2,4,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8155_1637592,,8155,Madison Club,31862.75,1,2,2
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8186_139986,,8186,Club Silver,32371.62,1,2,21
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,4694_139984,,4694,Club Platinum,33774.35,1,2,6
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,4694_140008,,4694,Club Platinum,34340.75,2,6,7
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,4694_139988,,4694,Club Platinum,41199.5,2,4,7
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17400_1717539,,17400,Delta Sky360 Club,44510.54,2,4,2
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17400_1717541,,17400,Delta Sky360 Club,47713.1,2,6,2
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,8177_88761,,8177,Club Gold,47792.75,1,2,5
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17400_1526301,,17400,Delta Sky360 Club,53102.75,1,2,1
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17400_1526302,,17400,Delta Sky360 Club,53102.75,2,4,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17400_1717538,,17400,Delta Sky360 Club,61457.19,2,4,3
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17400_1717540,,17400,Delta Sky360 Club,68607.95,2,8,4
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17401_1717538,,17401,Delta Sky360 Club Premier,68807.51,1,2,A
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17401_1526302,,17401,Delta Sky360 Club Premier,74040.67,1,2,A
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17401_1526301,,17401,Delta Sky360 Club Premier,84431.3,1,4,A
+2026-06-06T14:23:14Z,160286427,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",2026-06-08T20:30:00,Madison Square Garden,17401_1526304,,17401,Delta Sky360 Club Premier,86024.75,1,2,A
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8152_139886,,8152,400 Level,12441.08,2,4,6
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139959,,3803,200 Level,13460.28,3,12,20
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139989,,3803,200 Level,13606.06,2,4,15
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139951,,3803,200 Level,13606.06,5,20,22
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139960,,3803,200 Level,14129.06,3,6,13
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8154_1000651,,8154,Chase Bridges Barstools,14763.93,1,2,BS3
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139991,,3803,200 Level,14918.08,4,10,20
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139995,,3803,200 Level,14918.08,4,18,22
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139997,,3803,200 Level,15065.69,2,10,14
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8152_139884,,8152,400 Level,15071.01,2,10,6
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139993,,3803,200 Level,15320.94,5,24,16
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_140013,,3803,200 Level,16044.55,2,6,9
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8153_1000655,,8153,Chase Bridges,16309.97,1,2,2
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8153_1000656,,8153,Chase Bridges,16852.26,1,2,2
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8153_1000651,,8153,Chase Bridges,17499.63,1,2,1
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_140005,,3803,200 Level,17495.75,1,2,
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8152_139883,,8152,400 Level,17638.55,1,4,4
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8152_139881,,8152,400 Level,17888.63,2,4,5
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139980,,3788,100 Level,19104.94,3,11,18
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139953,,3803,200 Level,19276.56,3,14,22
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8152_139887,,8152,400 Level,19266.83,1,2,3
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139978,,3788,100 Level,19280.75,2,4,18
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139952,,3803,200 Level,20520.43,3,8,17
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139992,,3788,100 Level,20605.12,2,4,12
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,1427_108347,,1427,Risers,20942.97,4,8,20
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_1638332,,3803,200 Level,21422.75,1,2,
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_219496,,3788,100 Level,21088.6,3,10,21
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139976,,3788,100 Level,21928.68,2,4,19
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,1427_108350,,1427,Risers,22180.66,4,10,19
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139975,,3803,200 Level,22341.43,1,2,6
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139998,,3803,200 Level,22380.46,1,9,3
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139981,,3788,100 Level,23594.5,4,14,16
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_140006,,3788,100 Level,23689.7,3,6,15
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139999,,3788,100 Level,23405.74,1,2,9
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,1427_92883,,1427,Risers,23564.75,2,6,15
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_139987,,3803,200 Level,24100.25,1,4,14
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8153_1000661,,8153,Chase Bridges,24243.05,1,4,2
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139994,,3788,100 Level,24342.34,1,2,8
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139996,,3788,100 Level,24387.99,2,18,18
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_140001,,3788,100 Level,26668.0,1,4,16
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,1427_108351,,1427,Risers,26718.88,1,2,19
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_140010,,3788,100 Level,26772.39,3,6,16
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,1427_79228,,1427,Risers,26777.75,2,4,8
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_139984,,8177,Club Gold,28919.75,2,6,17
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8186_140008,,8186,Club Silver,29582.65,2,4,21
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139990,,3788,100 Level,30347.7,1,5,12
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,1427_88761,,1427,Risers,31925.44,1,2,8
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_140008,,8177,Club Gold,34411.6,3,6,14
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8186_139984,,8186,Club Silver,35345.75,2,4,22
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8186_140003,,8186,Club Silver,36416.75,3,6,22
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_140003,,8177,Club Gold,36454.23,3,6,12
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_79228,,8177,Club Gold,37466.33,3,6,4
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8186_219497,,8186,Club Silver,39511.94,1,2,18
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_108350,,8177,Club Gold,42247.75,3,6,5
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_92883,,8177,Club Gold,42173.37,1,2,1
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8186_139988,,8186,Club Silver,42842.75,1,2,19
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8186_139981,,8186,Club Silver,43564.16,3,6,3
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,4694_140003,,4694,Club Platinum,43958.97,3,8,8
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_219497,,8177,Club Gold,45817.75,2,10,11
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_108351,,8177,Club Gold,45733.62,1,2,2
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,4694_139988,,4694,Club Platinum,47717.48,2,8,5
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_139986,,8177,Club Gold,49701.33,1,4,11
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_108347,,8177,Club Gold,51787.86,2,4,2
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8177_139988,,8177,Club Gold,52664.71,1,6,14
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3788_139974,,3788,100 Level,53552.75,1,2,18
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,4694_139984,,4694,Club Platinum,53552.75,2,4,2
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8152_139888,,8152,400 Level,53552.75,1,2,3
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_140009,,3803,200 Level,53552.75,1,2,4
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8152_139885,,8152,400 Level,56230.25,3,6,4
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,4694_139986,,4694,Club Platinum,57331.06,1,2,5
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17400_1526302,,17400,Delta Sky360 Club,69617.75,1,2,1
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17400_1717540,,17400,Delta Sky360 Club,71224.25,2,4,3
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17400_1717539,,17400,Delta Sky360 Club,80327.75,2,4,3
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,8155_1637593,,8155,Madison Club,80327.75,1,2,3
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17400_1717538,,17400,Delta Sky360 Club,81026.96,1,2,1
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,3803_140011,,3803,200 Level,85682.75,1,2,2
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17400_1526301,,17400,Delta Sky360 Club,91392.29,3,6,4
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17400_1717541,,17400,Delta Sky360 Club,99129.75,1,2,1
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17401_1717538,,17401,Delta Sky360 Club Premier,121204.25,1,2,A
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,4694_219497,,4694,Club Platinum,128036.35,1,2,8
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17401_1717541,,17401,Delta Sky360 Club Premier,147265.25,1,2,A
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17401_1526301,,17401,Delta Sky360 Club Premier,181805.0,1,4,A
+2026-06-06T14:23:14Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,17401_1526302,,17401,Delta Sky360 Club Premier,193996.55,1,2,A
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149082,,329,Balcony,2025.75,4,20,
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149086,,329,Balcony,2144.75,3,8,13
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149096,,329,Balcony,2230.43,1,2,1
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149071,,329,Balcony,2302.43,3,6,11
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149073,,329,Balcony,2310.2,3,8,13
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149089,,329,Balcony,2305.4,3,16,15
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149091,,329,Balcony,2334.44,3,16,15
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149093,,329,Balcony,2350.06,4,27,15
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149095,,329,Balcony,2351.63,2,6,10
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149092,,329,Balcony,2357.31,3,8,20
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149076,,329,Balcony,2357.31,3,8,19
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149085,,329,Balcony,2365.28,3,8,12
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149094,,329,Balcony,2376.8,2,4,14
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149078,,329,Balcony,2392.82,6,17,21
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149090,,329,Balcony,2412.39,6,22,22
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149079,,329,Balcony,2472.18,5,19,23
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149083,,329,Balcony,2514.69,1,2,10
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149077,,329,Balcony,2591.82,2,6,12
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149088,,329,Balcony,2630.15,2,12,12
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149087,,329,Balcony,2681.15,2,4,13
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149075,,329,Balcony,2834.2,3,14,13
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149080,,329,Balcony,2885.53,3,6,12
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149074,,329,Balcony,2917.36,1,2,6
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149081,,329,Balcony,3191.33,1,5,12
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149097,,329,Balcony,3590.47,2,17,9
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149111,,518,Plaza,3965.93,3,8,33
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149110,,518,Plaza,4289.08,2,6,32
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149113,,518,Plaza,4289.08,1,2,23
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149124,,518,Plaza,4357.07,1,2,26
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149099,,518,Plaza,4357.07,1,2,23
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149125,,518,Plaza,4429.2,2,6,24
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149098,,518,Plaza,4643.87,4,12,25
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149100,,518,Plaza,4709.59,3,6,29
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149112,,518,Plaza,4721.52,2,6,22
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149102,,518,Plaza,4726.56,2,4,27
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149109,,518,Plaza,4741.21,3,9,34
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149114,,518,Plaza,4911.07,2,6,25
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149121,,518,Plaza,4998.97,3,10,31
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149123,,518,Plaza,5041.27,4,13,32
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149101,,518,Plaza,5195.95,2,6,34
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149115,,518,Plaza,5197.1,3,8,24
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149070,,329,Balcony,5197.1,2,18,
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149106,,518,Plaza,5477.59,3,6,34
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149107,,518,Plaza,6012.2,2,6,30
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149105,,518,Plaza,6246.68,1,4,
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),2724_149147,,2724,Super Boxes,6814.31,1,2,5
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_1480572,,594,Lower,6922.78,1,4,15
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149143,,594,Lower,7159.41,1,2,17
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),2724_149148,,2724,Super Boxes,8408.77,1,2,4
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149103,,518,Plaza,8689.75,2,6,31
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_1480189,,594,Lower,8919.72,1,6,19
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149118,,518,Plaza,9437.07,1,2,
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149120,,518,Plaza,9574.28,1,2,21
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149140,,594,Lower,11548.13,2,6,12
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),8688_1481005,,8688,Courtside Boxes,12830.95,1,4,16
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149131,,594,Lower,14268.74,1,4,13
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149133,,594,Lower,15496.16,2,4,12
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149072,,329,Balcony,16326.46,3,13,14
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149122,,518,Plaza,17866.26,3,6,31
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),8688_1480999,,8688,Courtside Boxes,18682.77,3,18,16
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149142,,594,Lower,18682.77,2,5,13
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149141,,594,Lower,19324.58,1,2,7
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),8688_1481010,,8688,Courtside Boxes,20411.25,1,2,15
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_1710190,,518,Plaza,21422.75,1,2,
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149104,,518,Plaza,28919.75,1,2,24
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),8688_1481011,,8688,Courtside Boxes,31136.13,1,4,16
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149108,,518,Plaza,34862.25,2,4,28
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149117,,518,Plaza,47426.63,1,2,29
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149134,,594,Lower,50577.75,1,4,
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149116,,518,Plaza,52299.2,1,2,32
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149119,,518,Plaza,58002.87,1,2,
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149135,,594,Lower,65452.75,1,4,
+2026-06-06T14:23:14Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),1679_1532593,,1679,Courtside,89029.63,1,2,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8152_139884,,8152,400 Level,11534.29,2,4,6
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8152_139885,,8152,400 Level,11534.29,1,2,6
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8152_139882,,8152,400 Level,11534.29,1,2,7
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139960,,3803,200 Level,11901.56,1,2,5
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,990_1525405,,990,Lounge,11956.72,1,2,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139995,,3803,200 Level,12313.89,5,13,18
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139991,,3803,200 Level,12581.65,4,8,12
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139997,,3803,200 Level,12815.58,3,8,24
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139952,,3803,200 Level,12854.75,3,6,12
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8152_139887,,8152,400 Level,13404.78,2,8,4
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139959,,3803,200 Level,13390.25,2,4,5
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139953,,3803,200 Level,13625.87,4,14,24
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8152_139886,,8152,400 Level,13935.03,1,4,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_140013,,3803,200 Level,13928.23,6,15,23
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_140011,,3803,200 Level,14059.98,2,4,11
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_140004,,3803,200 Level,14346.53,1,2,3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_140009,,3803,200 Level,14816.82,2,4,3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8152_139888,,8152,400 Level,14871.8,2,6,7
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8154_1000656,,8154,Chase Bridges Barstools,15212.02,1,3,BS3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8152_139883,,8152,400 Level,15318.18,1,4,6
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139975,,3803,200 Level,15532.25,1,2,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8153_1000655,,8153,Chase Bridges,16061.32,1,4,2
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139987,,3803,200 Level,16067.75,4,14,18
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139993,,3803,200 Level,16496.15,2,8,4
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139951,,3803,200 Level,17031.65,3,8,20
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_140002,,3803,200 Level,17246.29,1,4,2
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139999,,3788,100 Level,17317.25,4,8,20
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139996,,3788,100 Level,17474.78,4,10,21
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8154_1000657,,8154,Chase Bridges Barstools,17520.98,1,2,BS3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8153_1000661,,8153,Chase Bridges,17551.79,1,4,2
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_139984,,8186,Club Silver,17533.95,3,8,21
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_219496,,3788,100 Level,17862.65,2,4,18
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139994,,3788,100 Level,17971.56,3,10,22
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8152_139881,,8152,400 Level,18137.78,1,6,7
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139976,,3788,100 Level,18153.89,3,10,16
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139981,,3788,100 Level,18745.25,3,12,19
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139989,,3803,200 Level,19038.59,1,2,16
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139978,,3788,100 Level,19042.75,4,13,19
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,1427_108347,,1427,Risers,19344.18,3,6,18
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_140010,,3788,100 Level,19394.5,4,12,21
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,1427_108350,,1427,Risers,19401.11,8,18,20
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,1427_108351,,1427,Risers,19413.01,3,10,
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139992,,3788,100 Level,19468.96,5,12,20
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8153_1000652,,8153,Chase Bridges,19722.81,1,4,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139990,,3788,100 Level,19924.37,4,12,22
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_140001,,3788,100 Level,19968.09,4,16,17
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_140006,,3788,100 Level,19999.39,5,16,21
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139980,,3788,100 Level,20577.85,4,10,22
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,1427_92883,,1427,Risers,20903.97,3,6,16
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_140003,,8186,Club Silver,21226.76,1,2,19
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,990_1525407,,990,Lounge,21357.3,1,2,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3788_139974,,3788,100 Level,22979.78,4,12,15
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8154_1000653,,8154,Chase Bridges Barstools,23815.96,1,2,BS3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_140005,,3803,200 Level,23815.96,1,4,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_139998,,3803,200 Level,24014.36,1,10,13
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,1427_79228,,1427,Risers,24480.61,3,6,13
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_139986,,8186,Club Silver,24635.75,2,6,22
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_1525339,,3803,200 Level,26776.68,1,2,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,3803_140007,,3803,200 Level,28265.25,1,4,5
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_140001,,8186,Club Silver,30526.25,1,2,3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_140008,,8177,Club Gold,31195.63,2,8,14
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_140006,,8186,Club Silver,32132.75,1,2,3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_139988,,8186,Club Silver,32727.75,1,2,18
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_108347,,8177,Club Gold,32725.01,2,4,2
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_140008,,8186,Club Silver,34631.75,2,7,20
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_139988,,8177,Club Gold,35702.75,2,6,14
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_1721331,,8177,Club Gold,34999.82,1,4,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_219497,,8186,Club Silver,35702.75,1,2,18
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,1427_88761,,1427,Risers,36016.91,2,4,11
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,4694_139984,,4694,Club Platinum,36703.78,2,4,8
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_219497,,8177,Club Gold,37487.75,4,14,12
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_92883,,8177,Club Gold,37743.36,1,4,3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_88761,,8177,Club Gold,38665.85,1,2,2
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_139986,,8177,Club Gold,40486.55,3,10,14
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_139981,,8186,Club Silver,41713.26,2,4,2
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,4694_140003,,4694,Club Platinum,42429.11,2,4,7
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_139984,,8177,Club Gold,45221.56,3,8,17
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_108350,,8177,Club Gold,46468.23,1,2,3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_108351,,8177,Club Gold,47098.19,1,2,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8177_140003,,8177,Club Gold,54540.9,1,4,12
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,4694_219497,,4694,Club Platinum,56155.28,1,2,6
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17400_1526302,,17400,Delta Sky360 Club,59979.82,1,2,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,4694_140008,,4694,Club Platinum,64262.75,1,2,7
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,4694_139988,,4694,Club Platinum,79137.75,3,12,5
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,8186_139990,,8186,Club Silver,79137.75,1,4,8
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17400_1717540,,17400,Delta Sky360 Club,79519.15,3,6,5
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,4694_139986,,4694,Club Platinum,87351.13,3,8,8
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17400_1717541,,17400,Delta Sky360 Club,90323.75,2,4,2
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17400_1717539,,17400,Delta Sky360 Club,92824.18,2,7,3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17400_1717538,,17400,Delta Sky360 Club,96345.15,1,2,1
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17401_1717539,,17401,Delta Sky360 Club Premier,102818.75,1,2,A
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17400_1526301,,17400,Delta Sky360 Club,113052.75,3,8,3
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17401_1526302,,17401,Delta Sky360 Club Premier,114409.35,1,2,A
+2026-06-06T14:23:14Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,17401_1717538,,17401,Delta Sky360 Club Premier,114409.35,1,4,A
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149089,,329,Balcony,2882.73,2,8,18
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149088,,329,Balcony,3806.17,2,6,12
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149072,,329,Balcony,3823.73,1,4,15
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149085,,329,Balcony,3869.65,1,2,14
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149079,,329,Balcony,4037.03,1,4,13
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149076,,329,Balcony,4217.13,2,6,19
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149078,,329,Balcony,4219.92,3,8,
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149087,,329,Balcony,4372.43,2,6,15
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149090,,329,Balcony,4571.35,3,6,19
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149092,,329,Balcony,4875.8,1,2,3
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149114,,518,Plaza,4960.47,4,16,28
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149077,,329,Balcony,4975.28,1,2,20
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149113,,518,Plaza,5132.46,1,4,33
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149081,,329,Balcony,5474.13,2,8,17
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149112,,518,Plaza,5768.48,2,6,24
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149091,,329,Balcony,5952.75,1,2,18
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149075,,329,Balcony,5833.75,2,12,16
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149082,,329,Balcony,6050.13,1,2,15
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149080,,329,Balcony,6412.67,1,4,18
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149122,,518,Plaza,6637.24,1,2,25
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149116,,518,Plaza,6697.69,1,3,34
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149098,,518,Plaza,6779.65,2,6,34
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149110,,518,Plaza,6922.78,1,7,21
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149086,,329,Balcony,6964.25,2,4,4
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149093,,329,Balcony,6999.95,1,6,9
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149073,,329,Balcony,7331.41,1,2,15
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149074,,329,Balcony,7505.7,1,2,6
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149125,,518,Plaza,7690.71,3,9,32
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149121,,518,Plaza,7742.99,2,6,27
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149108,,518,Plaza,8570.99,1,2,25
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149101,,518,Plaza,9080.38,1,4,34
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149111,,518,Plaza,9231.38,3,12,14
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149102,,518,Plaza,9425.41,1,2,26
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149123,,518,Plaza,9652.46,2,8,30
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149109,,518,Plaza,10311.39,1,2,34
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149117,,518,Plaza,10385.68,2,6,33
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149100,,518,Plaza,11075.06,1,4,29
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),2724_149147,,2724,Super Boxes,11355.35,2,8,5
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149124,,518,Plaza,11355.35,1,4,21
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),594_1480572,,594,Lower,11539.98,2,9,17
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_149083,,329,Balcony,11545.75,1,4,15
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149104,,518,Plaza,13904.33,2,4,31
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149105,,518,Plaza,14139.95,1,2,31
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149106,,518,Plaza,15817.14,1,4,31
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149120,,518,Plaza,16526.14,1,2,21
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149118,,518,Plaza,18166.91,1,2,22
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),329_1710191,,329,Balcony,18209.75,1,2,
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_1710190,,518,Plaza,19243.27,1,2,
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149140,,594,Lower,20514.66,1,2,11
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149142,,594,Lower,20774.38,2,9,12
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),2724_149148,,2724,Super Boxes,21422.75,1,2,4
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149135,,594,Lower,23082.98,2,6,10
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),594_149134,,594,Lower,34930.57,1,4,9
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149099,,518,Plaza,53075.68,1,2,
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),518_149115,,518,Plaza,71235.91,1,2,
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),8688_1481010,,8688,Courtside Boxes,81636.75,1,4,16
+2026-06-06T14:23:14Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),8688_1481005,,8688,Courtside Boxes,99129.75,1,4,16
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406237,,3674,Pavilion Deck,600.37,4,8,15
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406229,,2402,Terrace Deck,645.35,2,4,14
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406226,,2402,Terrace Deck,645.35,2,4,7
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406238,,3674,Pavilion Deck,658.2,4,14,13
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406230,,2402,Terrace Deck,665.08,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406234,,3674,Pavilion Deck,680.05,4,8,18
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406236,,3674,Pavilion Deck,686.19,4,8,19
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406227,,2402,Terrace Deck,695.32,3,10,14
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406235,,3674,Pavilion Deck,698.9,3,6,19
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406210,,2402,Terrace Deck,703.07,4,12,10
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406239,,3674,Pavilion Deck,719.52,6,24,13
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406213,,2402,Terrace Deck,709.61,4,8,15
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406214,,2402,Terrace Deck,709.61,3,6,10
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406209,,2402,Terrace Deck,709.61,3,6,11
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406228,,2402,Terrace Deck,711.0,2,7,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406241,,3674,Pavilion Deck,727.64,6,18,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406345,,1297,Pavilion,731.03,4,8,8
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406215,,2402,Terrace Deck,731.03,1,2,5
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406225,,2402,Terrace Deck,733.96,3,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406224,,2402,Terrace Deck,747.09,5,12,8
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406232,,3674,Pavilion Deck,755.43,3,14,7
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406222,,2402,Terrace Deck,768.51,3,6,12
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406221,,2402,Terrace Deck,769.69,4,14,16
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406231,,2402,Terrace Deck,773.29,2,4,8
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406344,,1297,Pavilion,779.23,3,8,6
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406219,,2402,Terrace Deck,782.64,4,8,15
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406211,,2402,Terrace Deck,802.83,3,8,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406212,,2402,Terrace Deck,815.27,2,4,15
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406220,,2402,Terrace Deck,820.6,5,10,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406223,,2402,Terrace Deck,820.6,5,10,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406262,,519,Terrace,826.92,2,12,3
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3338_1337764,,3338,Standing Room Only,854.19,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406347,,1297,Pavilion,859.55,1,2,2
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_1337784,,2402,Terrace Deck,859.55,1,2,9
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406310,,1749,Field Level Outfield,859.55,3,8,24
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406240,,3674,Pavilion Deck,880.97,3,14,14
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406217,,2402,Terrace Deck,886.33,2,4,13
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406307,,1749,Field Level Outfield,886.33,5,16,14
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406218,,2402,Terrace Deck,907.75,2,4,16
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406346,,1297,Pavilion,913.1,2,4,9
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406306,,1749,Field Level Outfield,913.1,6,26,19
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_406216,,2402,Terrace Deck,917.62,3,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406302,,17265,Field Level Baseline,926.19,2,10,16
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406303,,17265,Field Level Baseline,928.63,2,8,20
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406243,,519,Terrace,934.52,1,2,4
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406305,,1749,Field Level Outfield,939.87,2,6,11
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406311,,1749,Field Level Outfield,944.66,6,27,12
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406264,,519,Terrace,944.66,1,2,1
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_406233,,3674,Pavilion Deck,950.91,3,6,9
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406341,,1297,Pavilion,955.62,3,10,13
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406271,,1749,Field Level Outfield,965.58,4,10,15
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406263,,519,Terrace,986.5,2,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406267,,1749,Field Level Outfield,995.57,6,24,16
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406261,,519,Terrace,1003.53,1,5,1
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406266,,1749,Field Level Outfield,1002.1,5,15,15
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406300,,17265,Field Level Baseline,1010.45,5,16,30
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3676_406377,,3676,Scoreboard Porch,1009.45,3,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3676_406379,,3676,Scoreboard Porch,1009.45,3,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3676_406381,,3676,Scoreboard Porch,1009.45,2,8,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3676_406380,,3676,Scoreboard Porch,1009.45,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3676_406378,,3676,Scoreboard Porch,1009.45,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406273,,17265,Field Level Baseline,1008.3,7,24,16
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406301,,17265,Field Level Baseline,1013.71,5,22,38
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2402_2117704,,2402,Terrace Deck,1033.62,1,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406275,,17265,Field Level Baseline,1041.62,6,16,17
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406348,,1297,Pavilion,1041.73,2,4,10
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406304,,1749,Field Level Outfield,1048.64,2,8,11
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406298,,17265,Field Level Baseline,1057.82,9,25,39
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406269,,1749,Field Level Outfield,1060.2,3,8,17
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406340,,1297,Pavilion,1078.32,4,8,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406343,,1297,Pavilion,1078.32,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406342,,1297,Pavilion,1078.32,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406260,,519,Terrace,1078.32,3,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406309,,1749,Field Level Outfield,1081.49,2,4,9
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3674_2117709,,3674,Pavilion Deck,1082.67,1,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406277,,17265,Field Level Baseline,1086.38,5,12,40
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406259,,519,Terrace,1101.29,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406308,,1749,Field Level Outfield,1154.82,5,23,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406299,,17265,Field Level Baseline,1121.27,4,12,28
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406257,,519,Terrace,1124.24,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406276,,17265,Field Level Baseline,1156.99,5,18,18
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406247,,519,Terrace,1170.15,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406255,,519,Terrace,1170.15,3,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406248,,519,Terrace,1170.15,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406274,,17265,Field Level Baseline,1170.15,3,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406256,,519,Terrace,1170.15,3,10,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406254,,519,Terrace,1172.85,2,7,2
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406268,,1749,Field Level Outfield,1194.86,5,15,17
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406250,,519,Terrace,1216.07,3,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3669_406376,,3669,Arcade,1216.07,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406253,,519,Terrace,1216.07,4,8,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3669_406375,,3669,Arcade,1239.03,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3669_406374,,3669,Arcade,1261.98,2,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406246,,519,Terrace,1311.75,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406312,,1749,Field Level Outfield,1287.95,1,2,8
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406270,,1749,Field Level Outfield,1303.32,2,4,16
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406349,,1297,Pavilion,1307.03,1,2,10
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3669_406373,,3669,Arcade,1330.86,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_2117703,,1297,Pavilion,1377.2,1,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_406265,,1749,Field Level Outfield,1376.78,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3669_406372,,3669,Arcade,1376.78,3,10,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1297_406350,,1297,Pavilion,1424.81,3,6,4
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406297,,17265,Field Level Baseline,1502.15,1,4,13
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406296,,1714,Field Level,1737.21,1,2,37
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_2117729,,519,Terrace,1746.34,1,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406358,,3671,Hall of Fame Club,1825.83,1,2,3
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406371,,3671,Hall of Fame Club,1790.02,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406278,,17265,Field Level Baseline,1790.02,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406366,,3671,Hall of Fame Club,1827.7,3,6,5
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406351,,3671,Hall of Fame Club,1835.93,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406370,,3671,Hall of Fame Club,1835.93,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1749_2117744,,1749,Field Level Outfield,1868.05,1,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406251,,519,Terrace,1894.02,2,4,3
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406359,,3671,Hall of Fame Club,1930.55,1,4,6
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406367,,3671,Hall of Fame Club,1945.44,2,6,3
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406369,,3671,Hall of Fame Club,1950.73,3,8,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406357,,3671,Hall of Fame Club,2001.95,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406249,,519,Terrace,1972.05,2,4,3
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406353,,3671,Hall of Fame Club,2065.52,2,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406354,,3671,Hall of Fame Club,2180.31,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_2117702,,17265,Field Level Baseline,2184.2,1,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406356,,3671,Hall of Fame Club,2295.09,2,6,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406364,,3671,Hall of Fame Club,2295.09,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,17265_406272,,17265,Field Level Baseline,2457.13,1,2,35
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406283,,1714,Field Level,2450.68,1,2,25
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406355,,3671,Hall of Fame Club,2519.6,3,8,4
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406279,,1714,Field Level,2560.81,1,4,38
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406280,,1714,Field Level,2640.49,3,6,25
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406281,,1714,Field Level,2811.82,3,8,10
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406294,,1714,Field Level,2876.21,3,8,25
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406352,,3671,Hall of Fame Club,2879.55,1,2,8
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406286,,1714,Field Level,2988.63,1,2,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,2408_1712980,,2408,Diamond Club,2894.45,1,2,11
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,18186_406317,,18186,CP Rankin Club,2907.84,3,10,19
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406365,,3671,Hall of Fame Club,2973.59,1,2,1
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406295,,1714,Field Level,3052.71,4,10,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,519_406252,,519,Terrace,3142.15,1,2,4
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,18186_406315,,18186,CP Rankin Club,3181.69,2,6,15
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,18186_406313,,18186,CP Rankin Club,3266.94,2,6,14
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,18186_406314,,18186,CP Rankin Club,3278.82,2,8,15
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406368,,3671,Hall of Fame Club,3537.07,3,8,10
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406282,,1714,Field Level,3965.45,2,4,11
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,18186_406318,,18186,CP Rankin Club,5073.4,2,8,6
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_2117673,,1714,Field Level,5500.55,1,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,18186_406316,,18186,CP Rankin Club,5738.79,2,4,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,3671_406363,,3671,Hall of Fame Club,9409.27,3,8,
+2026-06-06T14:23:14Z,158989183,96th MLB All-Star Game,2026-07-14T20:00:00,Citizens Bank Park,1714_406288,,1714,Field Level,29752.75,1,2,25
