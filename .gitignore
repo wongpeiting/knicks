@@ -7,3 +7,4 @@ data/event_page_full.html
 data/parsed_listings.json
 data/event_urls.json
 data/latest.json
+data/last_scrape.json

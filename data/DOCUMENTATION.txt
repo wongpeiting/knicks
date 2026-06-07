@@ -1,0 +1,127 @@
+DATA DICTIONARY & METHODOLOGY
+==============================
+StubHub Knicks NBA Finals Ticket Price Scraper
+Source: https://www.stubhub.com/new-york-knicks-tickets/performer/2742
+
+
+DATA DICTIONARY
+===============
+
+section_prices.csv — Section-level pricing (~500 rows/scrape)
+-------------------------------------------------------------
+scraped_at          datetime    2026-06-04T22:00:35Z    UTC timestamp of scrape
+event_id            int         160287605               StubHub event ID (stable, joinable)
+event_name          string      New York Knicks at...   Full event title
+event_date          datetime    2026-06-05T19:30:00     Event start time (local)
+venue               string      Frost Bank Center       Venue name
+section_key         string      329_149071              Composite key: {ticket_class_id}_{section_id}. Stable across scrapes
+section_name        string      225                     Human-readable section number. Can be blank
+ticket_class        string      329                     Ticket class ID (maps to ticket_class_name)
+ticket_class_name   string      Balcony                 Tier/level name (e.g. 100 Level, Club Gold)
+min_price           float       797.79                  Cheapest listing price in this section (USD, includes fees)
+listing_count       int         5                       Number of active seller listings in this section
+ticket_count        int         12                      Total individual seats for sale across all listings in this section
+row                 string      12                      Row of the cheapest listing in this section
+
+listings.csv — Individual ticket listings (240 rows/scrape)
+-----------------------------------------------------------
+scraped_at          datetime    2026-06-04T22:00:35Z    UTC timestamp of scrape
+event_id            int         160287605               StubHub event ID
+event_name          string      (same as above)         Full event title
+event_date          datetime    2026-06-05T19:30:00     Event start time
+venue               string      Frost Bank Center       Venue name
+listing_id          int         12933171940             Unique listing ID — stable while seller's listing is active
+section             string      225                     Section number
+section_id          int         149091                  StubHub internal section ID
+ticket_class_name   string      Balcony                 Tier/level name
+row                 string      16                      Row number
+seat_from           string      3                       First seat number (can be blank)
+seat_to             string      4                       Last seat number (can be blank)
+raw_price           float       1027.07                 Price per ticket (USD, includes fees)
+formatted_price     string      $1,027                  Display price
+available_tickets   int         2                       Number of tickets in this listing
+ticket_type         string      Mobile Transfer ticket  Delivery method
+
+Note: Only captures the top 40 listings per event (StubHub's first page, sorted
+by "Recommended"). Not exhaustive — use section_prices.csv for full coverage.
+
+event_summary.csv — Per-event demand signals (1 row per event per scrape)
+-------------------------------------------------------------------------
+scraped_at          datetime    2026-06-04T22:32:59Z    UTC timestamp
+event_id            int         160286427               StubHub event ID
+event_name          string      San Antonio Spurs...    Full event title
+event_date          datetime    2026-06-08T20:30:00     Event start time
+venue               string      Madison Square Garden   Venue name
+total_listings      int         199                     Total active seller listings — supply indicator
+min_price           float       7392.65                 Cheapest ticket (USD, includes fees)
+max_price           float       752598.72               Most expensive listing
+tag                 string      Selling fast            StubHub demand badge: Hottest event, Selling fast, Best value, or blank
+
+viewers.csv — Performer page metadata (1 row/scrape)
+----------------------------------------------------
+scraped_at          datetime    2026-06-04T22:20:54Z    UTC timestamp
+viewers_past_hour   int         10422                   People who viewed Knicks events in the past hour (StubHub's number)
+followers           string      53.8K                   StubHub follower count for the Knicks page
+event_count         int         6                       Number of upcoming events listed
+
+
+METHODOLOGY NOTES
+=================
+
+Data collection
+- Automated scraper runs every ~45 minutes via GitHub Actions (cron).
+- Each scrape captures a snapshot of StubHub's performer and event pages.
+- Data is captured via Playwright (headless browser) with stealth measures to bypass AWS WAF.
+- Prices shown are per-ticket, USD, including all fees (as displayed on StubHub).
+- The listing JSON is intercepted from the raw HTTP response before React hydration removes it from the DOM.
+
+What each data point represents
+- A snapshot of what was listed on StubHub at that moment.
+- NOT a continuous feed — there are gaps between scrapes.
+- The scraper captures the top 40 "Recommended" listings per event, plus section-level min prices for all sections (~80-100 per event).
+
+What you CAN claim
+- "At [time], the cheapest listed ticket was $X"
+- "Between [time] and [time], the floor price moved from $X to $Y"
+- "The number of active listings dropped from X to Y over N hours"
+- "The median section price was $X" (more stable than floor)
+- "N listings disappeared in the hours before tipoff"
+
+What you CANNOT claim
+- "Prices fell steadily" — we don't know what happened between scrapes.
+- "The lowest price was $X" — it's the lowest we OBSERVED; actual low could have been lower between scrapes.
+- "X tickets were sold" — we can only say listings disappeared; sellers may have pulled unsold listings (especially at tipoff).
+
+Known data gaps
+- GitHub Actions cron scheduling is unreliable on the free tier. GitHub's own documentation states: "During periods of high loads of GitHub Actions workflow runs, the schedule event may be delayed." In practice, scheduled jobs are frequently skipped entirely, not just delayed.
+- With a single hourly cron (0 * * * *), the scraper ran an average of once every 4.5 hours instead of every hour in the earlier phases of the project. Moving to off-peak minutes and multiple staggered slots improved reliability to an average gap of ~41 minutes, but gaps of 2-5 hours still occurred unpredictably.
+- The scraper was manually triggered during critical periods (e.g. game day) to fill gaps.
+- StubHub blocked GitHub Actions IPs from ~22:21 to ~00:49 UTC on Jun 5-6 (during and immediately after Game 2). This was caused by too many rapid requests (~8 scrapes in 2 hours) triggering StubHub's AWS WAF anti-bot protection. No data was captured in this ~2.5 hour window.
+- Some scrapes returned non-Knicks events due to StubHub's dynamic content, resulting in occasional non-NBA data in the CSVs.
+- Bottom line: this dataset has irregular sampling intervals. It should be treated as a series of snapshots, not a continuous time series. Any interpolation between points is speculative.
+
+Floor price vs median
+- "Floor price" = cheapest single listing. Volatile — one seller listing or removing a cheap ticket can swing it 10-20% between scrapes.
+- "Median section price" = median of all sections' min prices. More stable and better represents the overall market.
+- For reporting, prefer median or use floor with caveats about volatility.
+
+Supply metrics
+- "Total listings" = number of active seller listings. Reliable indicator of supply changes.
+- "Ticket count" = total individual seats across all listings in a section.
+- Listings disappearing does not equal tickets sold. Sellers can pull listings at any time. Pre-tipoff disappearances at low prices are likely sales; post-tipoff disappearances are likely pulled.
+
+Individual listing tracking
+- Each listing has a unique listing_id that persists while the seller's listing is active.
+- We only capture the top 40 per event per scrape, so a listing may drop out of our view without being sold.
+- Price changes on a single listing_id across scrapes = seller repricing, not a different ticket.
+
+StubHub's reported metrics
+- "X people viewed events in the past hour" — StubHub's own number, not independently verified.
+- "Followers" — StubHub follower count, self-reported.
+- Tags like "Hottest event", "Selling fast", "Best value" — StubHub's own demand signals, criteria unknown.
+
+Recommended language for publication
+- "StubHub data captured at approximately 45-minute intervals shows..."
+- "The cheapest available ticket dropped from $773 to $480 in the 20 hours before tipoff, based on periodic snapshots of the marketplace"
+- "At least 124 listings were removed from StubHub in the hours surrounding Game 2"
+- Always note: "Prices are asking prices set by resellers on StubHub and may differ from face value"
