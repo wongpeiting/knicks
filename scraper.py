@@ -35,6 +35,7 @@ PERFORMER_URL = "https://www.stubhub.com/new-york-knicks-tickets/performer/2742"
 DATA_DIR = Path(__file__).parent / "data"
 SECTIONS_CSV = DATA_DIR / "section_prices.csv"
 LISTINGS_CSV = DATA_DIR / "listings.csv"
+ROW_PRICES_CSV = DATA_DIR / "row_prices.csv"
 VIEWERS_CSV = DATA_DIR / "viewers.csv"
 EVENT_SUMMARY_CSV = DATA_DIR / "event_summary.csv"
 LAST_SCRAPE_JSON = DATA_DIR / "last_scrape.json"
@@ -48,6 +49,12 @@ SECTION_FIELDS = [
     "scraped_at", "event_id", "event_name", "event_date", "venue",
     "section_key", "section_name", "ticket_class", "ticket_class_name",
     "min_price", "listing_count", "ticket_count", "row",
+]
+
+ROW_PRICE_FIELDS = [
+    "scraped_at", "event_id", "event_name", "event_date", "venue",
+    "row_key", "min_price", "listing_count", "ticket_count",
+    "listing_id",
 ]
 
 LISTING_FIELDS = [
@@ -278,6 +285,21 @@ def scrape_event(page, event_url, max_retries=2):
             "row": sec.get("rowText", ""),
         })
 
+    # --- Row-level data (covers nearly ALL listings) ---
+    row_popup = grid.get("venueMapData", {}).get("rowPopupData", {})
+    row_prices = []
+    for key, rp in row_popup.items():
+        row_prices.append({
+            "event_id": event_id, "event_name": event_name,
+            "event_date": event_date, "venue": venue,
+            "row_key": key,
+            "min_price": rp.get("rawMinPrice", ""),
+            "listing_count": rp.get("count", 0),
+            "ticket_count": rp.get("ticketCount", 0),
+            "listing_id": rp.get("listingId", ""),
+        })
+
+    # --- Individual listings (top 40 recommended) ---
     listings = []
     for item in grid.get("items", []):
         listings.append({
@@ -305,11 +327,12 @@ def scrape_event(page, event_url, max_retries=2):
         "total_listings": grid.get("totalCount", grid.get("totalFilteredListings", 0)),
         "ticket_classes": tc_names,
         "sections": sections,
+        "row_prices": row_prices,
         "listings": listings,
     }
 
     print(f"    {event_name}")
-    print(f"    {len(sections)} sections, {len(listings)} listings, "
+    print(f"    {len(sections)} sections, {len(row_prices)} rows, {len(listings)} listings, "
           f"${grid.get('minPrice', '?'):,.0f} - ${grid.get('maxPrice', '?'):,.0f}")
     return result
 
@@ -430,6 +453,16 @@ def save_data(all_events, page_meta, changelog, error_log, now_str):
             for li in event["listings"]:
                 w.writerow({"scraped_at": now_str, **li})
 
+    # ── Row prices CSV (all section+row combos) ──
+    rp_exists = ROW_PRICES_CSV.exists()
+    with open(ROW_PRICES_CSV, "a", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=ROW_PRICE_FIELDS)
+        if not rp_exists:
+            w.writeheader()
+        for event in all_events:
+            for rp in event.get("row_prices", []):
+                w.writerow({"scraped_at": now_str, **rp})
+
     # ── Event summary CSV ──
     es_exists = EVENT_SUMMARY_CSV.exists()
     with open(EVENT_SUMMARY_CSV, "a", newline="") as f:
@@ -481,7 +514,8 @@ def save_data(all_events, page_meta, changelog, error_log, now_str):
     total_sections = sum(len(e["sections"]) for e in all_events)
     total_listings = sum(len(e["listings"]) for e in all_events)
     print(f"\nSaved at {now_str}:")
-    print(f"  {len(all_events)} events, {total_sections} sections, {total_listings} listings")
+    total_rows = sum(len(e.get("row_prices", [])) for e in all_events)
+    print(f"  {len(all_events)} events, {total_sections} sections, {total_rows} rows, {total_listings} listings")
     if has_changes:
         print(f"  Changes: +{len(changelog['new_events'])} events, "
               f"-{len(changelog['removed_events'])} events, "
