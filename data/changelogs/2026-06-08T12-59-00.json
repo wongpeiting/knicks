@@ -1,0 +1,1441 @@
+{
+  "date": "2026-06-08T12:59:00Z",
+  "new_events": [
+    {
+      "event_id": 160286427,
+      "event_name": "San Antonio Spurs at New York Knicks: NBA Finals (Home Game 1, Series Game 3)",
+      "min_price": 5036.45,
+      "total_listings": 279
+    },
+    {
+      "event_id": 160286428,
+      "event_name": "San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",
+      "min_price": 9480.03,
+      "total_listings": 226
+    },
+    {
+      "event_id": 160286423,
+      "event_name": "San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",
+      "min_price": 11748.65,
+      "total_listings": 192
+    },
+    {
+      "event_id": 160287601,
+      "event_name": "New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",
+      "min_price": 1838.79,
+      "total_listings": 157
+    },
+    {
+      "event_id": 160287600,
+      "event_name": "New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",
+      "min_price": 4436.01,
+      "total_listings": 114
+    }
+  ],
+  "removed_events": [],
+  "modifications": [],
+  "new_listings": [
+    {
+      "listing_id": 12965632475,
+      "event_id": 160286427,
+      "section": "304",
+      "row": "2",
+      "price": 5036.45
+    },
+    {
+      "listing_id": 12964299213,
+      "event_id": 160286427,
+      "section": "211UWC",
+      "row": "23",
+      "price": 5357.75
+    },
+    {
+      "listing_id": 12964831217,
+      "event_id": 160286427,
+      "section": "314",
+      "row": "1",
+      "price": 5571.95
+    },
+    {
+      "listing_id": 12953817326,
+      "event_id": 160286427,
+      "section": "211",
+      "row": "10",
+      "price": 6105.31
+    },
+    {
+      "listing_id": 12964866710,
+      "event_id": 160286427,
+      "section": "227",
+      "row": "13",
+      "price": 5625.5
+    },
+    {
+      "listing_id": 12966274920,
+      "event_id": 160286427,
+      "section": "312",
+      "row": "BS3",
+      "price": 5661.85
+    },
+    {
+      "listing_id": 12965585777,
+      "event_id": 160286427,
+      "section": "209",
+      "row": "19",
+      "price": 5655.25
+    },
+    {
+      "listing_id": 12965820557,
+      "event_id": 160286427,
+      "section": "221",
+      "row": "13",
+      "price": 6066.99
+    },
+    {
+      "listing_id": 12965610172,
+      "event_id": 160286427,
+      "section": "226",
+      "row": "23",
+      "price": 5695.11
+    },
+    {
+      "listing_id": 12968892988,
+      "event_id": 160286427,
+      "section": "208",
+      "row": "2",
+      "price": 5812.93
+    },
+    {
+      "listing_id": 12950087566,
+      "event_id": 160286427,
+      "section": "400 Level",
+      "row": "",
+      "price": 6428.75
+    },
+    {
+      "listing_id": 12961347396,
+      "event_id": 160286427,
+      "section": "313",
+      "row": "",
+      "price": 6928.55
+    },
+    {
+      "listing_id": 12950006674,
+      "event_id": 160286427,
+      "section": "224",
+      "row": "22",
+      "price": 6772.73
+    },
+    {
+      "listing_id": 12962614024,
+      "event_id": 160286427,
+      "section": "223",
+      "row": "20",
+      "price": 6351.4
+    },
+    {
+      "listing_id": 12825709421,
+      "event_id": 160286427,
+      "section": "210",
+      "row": "17",
+      "price": 6339.86
+    },
+    {
+      "listing_id": 12965232919,
+      "event_id": 160286427,
+      "section": "217",
+      "row": "4",
+      "price": 5920.03
+    },
+    {
+      "listing_id": 12964192271,
+      "event_id": 160286427,
+      "section": "225",
+      "row": "19",
+      "price": 5947.39
+    },
+    {
+      "listing_id": 12968113985,
+      "event_id": 160286427,
+      "section": "212",
+      "row": "23",
+      "price": 6321.65
+    },
+    {
+      "listing_id": 12964196763,
+      "event_id": 160286427,
+      "section": "222",
+      "row": "20",
+      "price": 5629.96
+    },
+    {
+      "listing_id": 12962514800,
+      "event_id": 160286427,
+      "section": "211",
+      "row": "5",
+      "price": 7414.07
+    },
+    {
+      "listing_id": 12967985238,
+      "event_id": 160286427,
+      "section": "213",
+      "row": "22",
+      "price": 5961.96
+    },
+    {
+      "listing_id": 12964701093,
+      "event_id": 160286427,
+      "section": "214",
+      "row": "15",
+      "price": 5955.73
+    },
+    {
+      "listing_id": 12910671629,
+      "event_id": 160286427,
+      "section": "214",
+      "row": "8",
+      "price": 6428.75
+    },
+    {
+      "listing_id": 12968211745,
+      "event_id": 160286427,
+      "section": "318",
+      "row": "BS3",
+      "price": 5652.27
+    },
+    {
+      "listing_id": 12957350185,
+      "event_id": 160286427,
+      "section": "417",
+      "row": "3",
+      "price": 5081.09
+    },
+    {
+      "listing_id": 12964723156,
+      "event_id": 160286427,
+      "section": "218",
+      "row": "BS6",
+      "price": 5679.05
+    },
+    {
+      "listing_id": 12965273451,
+      "event_id": 160286427,
+      "section": "320",
+      "row": "1",
+      "price": 6600.25
+    },
+    {
+      "listing_id": 12943336797,
+      "event_id": 160286427,
+      "section": "420",
+      "row": "3",
+      "price": 5893.25
+    },
+    {
+      "listing_id": 12963817159,
+      "event_id": 160286427,
+      "section": "209",
+      "row": "2",
+      "price": 7505.7
+    },
+    {
+      "listing_id": 12936064927,
+      "event_id": 160286427,
+      "section": "310",
+      "row": "BS3",
+      "price": 5950.37
+    },
+    {
+      "listing_id": 12963371271,
+      "event_id": 160286427,
+      "section": "414",
+      "row": "5",
+      "price": 5183.71
+    },
+    {
+      "listing_id": 12963388588,
+      "event_id": 160286427,
+      "section": "226",
+      "row": "7",
+      "price": 6428.75
+    },
+    {
+      "listing_id": 12957242942,
+      "event_id": 160286427,
+      "section": "415",
+      "row": "2",
+      "price": 6246.68
+    },
+    {
+      "listing_id": 12964799961,
+      "event_id": 160286427,
+      "section": "317",
+      "row": "2",
+      "price": 5079.36
+    },
+    {
+      "listing_id": 12962509611,
+      "event_id": 160286427,
+      "section": "214",
+      "row": "1",
+      "price": 7387.29
+    },
+    {
+      "listing_id": 12968540446,
+      "event_id": 160286427,
+      "section": "418",
+      "row": "2",
+      "price": 5293.49
+    },
+    {
+      "listing_id": 12907982627,
+      "event_id": 160286427,
+      "section": "413",
+      "row": "2",
+      "price": 6865.84
+    },
+    {
+      "listing_id": 12968533226,
+      "event_id": 160286427,
+      "section": "225",
+      "row": "6",
+      "price": 6859.29
+    },
+    {
+      "listing_id": 12963868105,
+      "event_id": 160286427,
+      "section": "224",
+      "row": "5",
+      "price": 7505.7
+    },
+    {
+      "listing_id": 12965089999,
+      "event_id": 160286427,
+      "section": "416",
+      "row": "4",
+      "price": 5541.41
+    },
+    {
+      "listing_id": 12962462920,
+      "event_id": 160286428,
+      "section": "418",
+      "row": "2",
+      "price": 9480.03
+    },
+    {
+      "listing_id": 12965045877,
+      "event_id": 160286428,
+      "section": "110",
+      "row": "13",
+      "price": 16667.51
+    },
+    {
+      "listing_id": 12964534693,
+      "event_id": 160286428,
+      "section": "211",
+      "row": "12",
+      "price": 13372.14
+    },
+    {
+      "listing_id": 12964598356,
+      "event_id": 160286428,
+      "section": "104",
+      "row": "19",
+      "price": 16496.15
+    },
+    {
+      "listing_id": 12960938450,
+      "event_id": 160286428,
+      "section": "209",
+      "row": "18",
+      "price": 11034.05
+    },
+    {
+      "listing_id": 12964895160,
+      "event_id": 160286428,
+      "section": "227",
+      "row": "18",
+      "price": 10525.33
+    },
+    {
+      "listing_id": 12957330104,
+      "event_id": 160286428,
+      "section": "311",
+      "row": "1",
+      "price": 11170.91
+    },
+    {
+      "listing_id": 12968858120,
+      "event_id": 160286428,
+      "section": "223",
+      "row": "24",
+      "price": 9929.91
+    },
+    {
+      "listing_id": 12963465611,
+      "event_id": 160286428,
+      "section": "225",
+      "row": "B25",
+      "price": 11545.75
+    },
+    {
+      "listing_id": 12965070477,
+      "event_id": 160286428,
+      "section": "101",
+      "row": "16",
+      "price": 15650.06
+    },
+    {
+      "listing_id": 12966648191,
+      "event_id": 160286428,
+      "section": "213",
+      "row": "24",
+      "price": 10584.23
+    },
+    {
+      "listing_id": 12949106070,
+      "event_id": 160286428,
+      "section": "209",
+      "row": "4",
+      "price": 13925.75
+    },
+    {
+      "listing_id": 12957971931,
+      "event_id": 160286428,
+      "section": "224",
+      "row": "21",
+      "price": 13232.18
+    },
+    {
+      "listing_id": 12957330120,
+      "event_id": 160286428,
+      "section": "222",
+      "row": "23",
+      "price": 10456.08
+    },
+    {
+      "listing_id": 12968178101,
+      "event_id": 160286428,
+      "section": "212",
+      "row": "19",
+      "price": 11408.9
+    },
+    {
+      "listing_id": 12964941303,
+      "event_id": 160286428,
+      "section": "213",
+      "row": "16",
+      "price": 11248.25
+    },
+    {
+      "listing_id": 12965132406,
+      "event_id": 160286428,
+      "section": "222",
+      "row": "8",
+      "price": 16458.67
+    },
+    {
+      "listing_id": 12968184220,
+      "event_id": 160286428,
+      "section": "226",
+      "row": "21",
+      "price": 10268.29
+    },
+    {
+      "listing_id": 12960889859,
+      "event_id": 160286428,
+      "section": "208",
+      "row": "16",
+      "price": 11279.73
+    },
+    {
+      "listing_id": 12966653695,
+      "event_id": 160286428,
+      "section": "414",
+      "row": "2",
+      "price": 9996.37
+    },
+    {
+      "listing_id": 12963394981,
+      "event_id": 160286428,
+      "section": "221",
+      "row": "11",
+      "price": 13239.12
+    },
+    {
+      "listing_id": 12952276545,
+      "event_id": 160286428,
+      "section": "315",
+      "row": "2",
+      "price": 13366.15
+    },
+    {
+      "listing_id": 12949428068,
+      "event_id": 160286428,
+      "section": "327",
+      "row": "2",
+      "price": 13853.2
+    },
+    {
+      "listing_id": 12962817663,
+      "event_id": 160286428,
+      "section": "210",
+      "row": "23",
+      "price": 12106.74
+    },
+    {
+      "listing_id": 12962878380,
+      "event_id": 160286428,
+      "section": "413",
+      "row": "7",
+      "price": 10057.87
+    },
+    {
+      "listing_id": 12955787284,
+      "event_id": 160286428,
+      "section": "416",
+      "row": "4",
+      "price": 11534.21
+    },
+    {
+      "listing_id": 12965744010,
+      "event_id": 160286428,
+      "section": "225",
+      "row": "5",
+      "price": 14461.25
+    },
+    {
+      "listing_id": 12964476118,
+      "event_id": 160286428,
+      "section": "221",
+      "row": "9",
+      "price": 13297.43
+    },
+    {
+      "listing_id": 12957330103,
+      "event_id": 160286428,
+      "section": "417",
+      "row": "2",
+      "price": 10243.28
+    },
+    {
+      "listing_id": 12968879167,
+      "event_id": 160286428,
+      "section": "214",
+      "row": "13",
+      "price": 13263.51
+    },
+    {
+      "listing_id": 12965483896,
+      "event_id": 160286428,
+      "section": "224",
+      "row": "9",
+      "price": 16067.75
+    },
+    {
+      "listing_id": 12949507949,
+      "event_id": 160286428,
+      "section": "310",
+      "row": "1",
+      "price": 15992.11
+    },
+    {
+      "listing_id": 12966657964,
+      "event_id": 160286428,
+      "section": "206",
+      "row": "5",
+      "price": 14111.39
+    },
+    {
+      "listing_id": 12965462797,
+      "event_id": 160286428,
+      "section": "226",
+      "row": "5",
+      "price": 14461.25
+    },
+    {
+      "listing_id": 12962772889,
+      "event_id": 160286428,
+      "section": "415",
+      "row": "1",
+      "price": 13791.32
+    },
+    {
+      "listing_id": 12958268152,
+      "event_id": 160286428,
+      "section": "216",
+      "row": "BS6",
+      "price": 13688.7
+    },
+    {
+      "listing_id": 12968184197,
+      "event_id": 160286428,
+      "section": "209",
+      "row": "9",
+      "price": 11819.52
+    },
+    {
+      "listing_id": 12957843086,
+      "event_id": 160286428,
+      "section": "420",
+      "row": "6",
+      "price": 11232.01
+    },
+    {
+      "listing_id": 12957990428,
+      "event_id": 160286428,
+      "section": "217",
+      "row": "BS6",
+      "price": 14290.68
+    },
+    {
+      "listing_id": 12966648190,
+      "event_id": 160286428,
+      "section": "316",
+      "row": "BS3",
+      "price": 15287.11
+    },
+    {
+      "listing_id": 12967847722,
+      "event_id": 160286423,
+      "section": "420",
+      "row": "7",
+      "price": 11748.65
+    },
+    {
+      "listing_id": 12839729199,
+      "event_id": 160286423,
+      "section": "2",
+      "row": "18",
+      "price": 19506.71
+    },
+    {
+      "listing_id": 12839730842,
+      "event_id": 160286423,
+      "section": "8",
+      "row": "18",
+      "price": 20135.87
+    },
+    {
+      "listing_id": 12943616170,
+      "event_id": 160286423,
+      "section": "224",
+      "row": "19",
+      "price": 15970.43
+    },
+    {
+      "listing_id": 12825193168,
+      "event_id": 160286423,
+      "section": "211",
+      "row": "21",
+      "price": 18176.94
+    },
+    {
+      "listing_id": 12951325973,
+      "event_id": 160286423,
+      "section": "110",
+      "row": "19",
+      "price": 17621.61
+    },
+    {
+      "listing_id": 12945061076,
+      "event_id": 160286423,
+      "section": "223",
+      "row": "24",
+      "price": 13740.35
+    },
+    {
+      "listing_id": 12958241480,
+      "event_id": 160286423,
+      "section": "120",
+      "row": "21",
+      "price": 18411.71
+    },
+    {
+      "listing_id": 12958241479,
+      "event_id": 160286423,
+      "section": "222",
+      "row": "23",
+      "price": 13234.19
+    },
+    {
+      "listing_id": 12904771030,
+      "event_id": 160286423,
+      "section": "109",
+      "row": "22",
+      "price": 20091.78
+    },
+    {
+      "listing_id": 12967847689,
+      "event_id": 160286423,
+      "section": "212",
+      "row": "23",
+      "price": 13627.99
+    },
+    {
+      "listing_id": 12957541950,
+      "event_id": 160286423,
+      "section": "226",
+      "row": "22",
+      "price": 13097.75
+    },
+    {
+      "listing_id": 12964042937,
+      "event_id": 160286423,
+      "section": "114",
+      "row": "19",
+      "price": 17113.55
+    },
+    {
+      "listing_id": 12816864016,
+      "event_id": 160286423,
+      "section": "211",
+      "row": "3",
+      "price": 20522.75
+    },
+    {
+      "listing_id": 12951325959,
+      "event_id": 160286423,
+      "section": "213",
+      "row": "24",
+      "price": 13510.54
+    },
+    {
+      "listing_id": 12967847690,
+      "event_id": 160286423,
+      "section": "227",
+      "row": "15",
+      "price": 13510.54
+    },
+    {
+      "listing_id": 12943361276,
+      "event_id": 160286423,
+      "section": "225",
+      "row": "20",
+      "price": 17174.75
+    },
+    {
+      "listing_id": 12828237205,
+      "event_id": 160286423,
+      "section": "221",
+      "row": "11",
+      "price": 15241.26
+    },
+    {
+      "listing_id": 12839729009,
+      "event_id": 160286423,
+      "section": "3",
+      "row": "16",
+      "price": 21079.61
+    },
+    {
+      "listing_id": 12801121943,
+      "event_id": 160286423,
+      "section": "113",
+      "row": "22",
+      "price": 17524.21
+    },
+    {
+      "listing_id": 12958285555,
+      "event_id": 160286423,
+      "section": "213",
+      "row": "1",
+      "price": 15552.03
+    },
+    {
+      "listing_id": 12839729123,
+      "event_id": 160286423,
+      "section": "111",
+      "row": "22",
+      "price": 18122.56
+    },
+    {
+      "listing_id": 12951325993,
+      "event_id": 160286423,
+      "section": "210",
+      "row": "21",
+      "price": 13627.99
+    },
+    {
+      "listing_id": 12839729150,
+      "event_id": 160286423,
+      "section": "327",
+      "row": "2",
+      "price": 17699.26
+    },
+    {
+      "listing_id": 12958285934,
+      "event_id": 160286423,
+      "section": "226",
+      "row": "1",
+      "price": 15206.49
+    },
+    {
+      "listing_id": 12895004757,
+      "event_id": 160286423,
+      "section": "224",
+      "row": "4",
+      "price": 20632.19
+    },
+    {
+      "listing_id": 12839730939,
+      "event_id": 160286423,
+      "section": "311",
+      "row": "1",
+      "price": 19888.53
+    },
+    {
+      "listing_id": 12963698335,
+      "event_id": 160286423,
+      "section": "414",
+      "row": "3",
+      "price": 13010.45
+    },
+    {
+      "listing_id": 12860105662,
+      "event_id": 160286423,
+      "section": "102",
+      "row": "16",
+      "price": 17778.42
+    },
+    {
+      "listing_id": 12967847721,
+      "event_id": 160286423,
+      "section": "416",
+      "row": "6",
+      "price": 11748.65
+    },
+    {
+      "listing_id": 12922840181,
+      "event_id": 160286423,
+      "section": "314",
+      "row": "2",
+      "price": 16196.27
+    },
+    {
+      "listing_id": 12887472235,
+      "event_id": 160286423,
+      "section": "209",
+      "row": "16",
+      "price": 19198.55
+    },
+    {
+      "listing_id": 12945381997,
+      "event_id": 160286423,
+      "section": "112",
+      "row": "21",
+      "price": 17621.61
+    },
+    {
+      "listing_id": 12957701683,
+      "event_id": 160286423,
+      "section": "113",
+      "row": "18",
+      "price": 17712.58
+    },
+    {
+      "listing_id": 12929167640,
+      "event_id": 160286423,
+      "section": "413",
+      "row": "7",
+      "price": 14996.75
+    },
+    {
+      "listing_id": 12762261313,
+      "event_id": 160286423,
+      "section": "227",
+      "row": "11",
+      "price": 14042.75
+    },
+    {
+      "listing_id": 12967847715,
+      "event_id": 160286423,
+      "section": "418",
+      "row": "6",
+      "price": 11748.65
+    },
+    {
+      "listing_id": 12961629473,
+      "event_id": 160286423,
+      "section": "2",
+      "row": "14",
+      "price": 21614.74
+    },
+    {
+      "listing_id": 12832999904,
+      "event_id": 160286423,
+      "section": "210",
+      "row": "5",
+      "price": 16298.75
+    },
+    {
+      "listing_id": 12880551099,
+      "event_id": 160286423,
+      "section": "316",
+      "row": "BS3",
+      "price": 20039.39
+    },
+    {
+      "listing_id": 12968349695,
+      "event_id": 160287601,
+      "section": "213",
+      "row": "7",
+      "price": 1838.79
+    },
+    {
+      "listing_id": 12968654417,
+      "event_id": 160287601,
+      "section": "208",
+      "row": "",
+      "price": 2623.55
+    },
+    {
+      "listing_id": 12968654472,
+      "event_id": 160287601,
+      "section": "224",
+      "row": "",
+      "price": 2449.55
+    },
+    {
+      "listing_id": 12968349655,
+      "event_id": 160287601,
+      "section": "103",
+      "row": "23",
+      "price": 3720.17
+    },
+    {
+      "listing_id": 12960451422,
+      "event_id": 160287601,
+      "section": "114",
+      "row": "18",
+      "price": 4538.75
+    },
+    {
+      "listing_id": 12966595407,
+      "event_id": 160287601,
+      "section": "226",
+      "row": "7",
+      "price": 2039.75
+    },
+    {
+      "listing_id": 12967087169,
+      "event_id": 160287601,
+      "section": "222",
+      "row": "7",
+      "price": 2092.13
+    },
+    {
+      "listing_id": 12968349769,
+      "event_id": 160287601,
+      "section": "112",
+      "row": "26",
+      "price": 3720.17
+    },
+    {
+      "listing_id": 12964476535,
+      "event_id": 160287601,
+      "section": "207",
+      "row": "19",
+      "price": 2520.35
+    },
+    {
+      "listing_id": 12968349737,
+      "event_id": 160287601,
+      "section": "207",
+      "row": "5",
+      "price": 2482.06
+    },
+    {
+      "listing_id": 12968349698,
+      "event_id": 160287601,
+      "section": "128",
+      "row": "26",
+      "price": 3410.64
+    },
+    {
+      "listing_id": 12965775016,
+      "event_id": 160287601,
+      "section": "209",
+      "row": "23",
+      "price": 2198.52
+    },
+    {
+      "listing_id": 12968349709,
+      "event_id": 160287601,
+      "section": "117",
+      "row": "27",
+      "price": 3720.17
+    },
+    {
+      "listing_id": 12878281745,
+      "event_id": 160287601,
+      "section": "210",
+      "row": "12",
+      "price": 2909.75
+    },
+    {
+      "listing_id": 12968349814,
+      "event_id": 160287601,
+      "section": "220",
+      "row": "5",
+      "price": 1838.79
+    },
+    {
+      "listing_id": 12933978096,
+      "event_id": 160287601,
+      "section": "224",
+      "row": "23",
+      "price": 2454.35
+    },
+    {
+      "listing_id": 12968349694,
+      "event_id": 160287601,
+      "section": "229",
+      "row": "",
+      "price": 1838.79
+    },
+    {
+      "listing_id": 12969024297,
+      "event_id": 160287601,
+      "section": "219",
+      "row": "7",
+      "price": 1838.79
+    },
+    {
+      "listing_id": 12966615302,
+      "event_id": 160287601,
+      "section": "206",
+      "row": "7",
+      "price": 3122.75
+    },
+    {
+      "listing_id": 12968349702,
+      "event_id": 160287601,
+      "section": "102",
+      "row": "26",
+      "price": 3720.17
+    },
+    {
+      "listing_id": 12964525889,
+      "event_id": 160287601,
+      "section": "223",
+      "row": "17",
+      "price": 2198.52
+    },
+    {
+      "listing_id": 12963686860,
+      "event_id": 160287601,
+      "section": "101",
+      "row": "26",
+      "price": 4274.63
+    },
+    {
+      "listing_id": 12964542510,
+      "event_id": 160287601,
+      "section": "116",
+      "row": "32",
+      "price": 4595.62
+    },
+    {
+      "listing_id": 12968349736,
+      "event_id": 160287601,
+      "section": "SB 2A",
+      "row": "6",
+      "price": 4842.22
+    },
+    {
+      "listing_id": 12968349734,
+      "event_id": 160287601,
+      "section": "209",
+      "row": "4",
+      "price": 2482.06
+    },
+    {
+      "listing_id": 12968349714,
+      "event_id": 160287601,
+      "section": "203",
+      "row": "",
+      "price": 1838.79
+    },
+    {
+      "listing_id": 12968349738,
+      "event_id": 160287601,
+      "section": "212",
+      "row": "7",
+      "price": 1838.79
+    },
+    {
+      "listing_id": 12968349603,
+      "event_id": 160287601,
+      "section": "230",
+      "row": "4",
+      "price": 1838.79
+    },
+    {
+      "listing_id": 12906085170,
+      "event_id": 160287601,
+      "section": "210",
+      "row": "2",
+      "price": 3890.75
+    },
+    {
+      "listing_id": 12957632651,
+      "event_id": 160287601,
+      "section": "125",
+      "row": "34",
+      "price": 4352.99
+    },
+    {
+      "listing_id": 12963915851,
+      "event_id": 160287601,
+      "section": "225",
+      "row": "21",
+      "price": 2198.52
+    },
+    {
+      "listing_id": 12950339693,
+      "event_id": 160287601,
+      "section": "206",
+      "row": "2",
+      "price": 3302.75
+    },
+    {
+      "listing_id": 12957760844,
+      "event_id": 160287601,
+      "section": "204",
+      "row": "11",
+      "price": 1900.07
+    },
+    {
+      "listing_id": 12965822325,
+      "event_id": 160287601,
+      "section": "205",
+      "row": "13",
+      "price": 2292.88
+    },
+    {
+      "listing_id": 12968349699,
+      "event_id": 160287601,
+      "section": "214",
+      "row": "6",
+      "price": 1838.79
+    },
+    {
+      "listing_id": 12960965569,
+      "event_id": 160287601,
+      "section": "115",
+      "row": "33",
+      "price": 4890.82
+    },
+    {
+      "listing_id": 12945490235,
+      "event_id": 160287601,
+      "section": "221",
+      "row": "13",
+      "price": 2169.09
+    },
+    {
+      "listing_id": 12938715881,
+      "event_id": 160287601,
+      "section": "113",
+      "row": "34",
+      "price": 4322.75
+    },
+    {
+      "listing_id": 12960965570,
+      "event_id": 160287601,
+      "section": "211",
+      "row": "19",
+      "price": 2218.8
+    },
+    {
+      "listing_id": 12968349742,
+      "event_id": 160287601,
+      "section": "SB 1A",
+      "row": "4",
+      "price": 4842.22
+    },
+    {
+      "listing_id": 12960965643,
+      "event_id": 160287600,
+      "section": "211",
+      "row": "19",
+      "price": 4436.01
+    },
+    {
+      "listing_id": 12960965605,
+      "event_id": 160287600,
+      "section": "121",
+      "row": "30",
+      "price": 9421.85
+    },
+    {
+      "listing_id": 12960965590,
+      "event_id": 160287600,
+      "section": "122",
+      "row": "34",
+      "price": 9237.16
+    },
+    {
+      "listing_id": 12930024269,
+      "event_id": 160287600,
+      "section": "105",
+      "row": "26",
+      "price": 9504.59
+    },
+    {
+      "listing_id": 12965745752,
+      "event_id": 160287600,
+      "section": "109",
+      "row": "25",
+      "price": 12664.55
+    },
+    {
+      "listing_id": 12965745761,
+      "event_id": 160287600,
+      "section": "106",
+      "row": "32",
+      "price": 11934.27
+    },
+    {
+      "listing_id": 12965745763,
+      "event_id": 160287600,
+      "section": "110",
+      "row": "34",
+      "price": 10034.34
+    },
+    {
+      "listing_id": 12948026149,
+      "event_id": 160287600,
+      "section": "120",
+      "row": "33",
+      "price": 11700.31
+    },
+    {
+      "listing_id": 12969016698,
+      "event_id": 160287600,
+      "section": "223",
+      "row": "18",
+      "price": 4939.55
+    },
+    {
+      "listing_id": 12878596461,
+      "event_id": 160287600,
+      "section": "124",
+      "row": "33",
+      "price": 8642.75
+    },
+    {
+      "listing_id": 12877253296,
+      "event_id": 160287600,
+      "section": "208",
+      "row": "23",
+      "price": 6113.75
+    },
+    {
+      "listing_id": 12965753334,
+      "event_id": 160287600,
+      "section": "109",
+      "row": "22",
+      "price": 13176.1
+    },
+    {
+      "listing_id": 12887830682,
+      "event_id": 160287600,
+      "section": "Balcony",
+      "row": "",
+      "price": 10802.75
+    },
+    {
+      "listing_id": 12883476876,
+      "event_id": 160287600,
+      "section": "207",
+      "row": "20",
+      "price": 5017.07
+    },
+    {
+      "listing_id": 12965745750,
+      "event_id": 160287600,
+      "section": "126",
+      "row": "32",
+      "price": 6979.77
+    },
+    {
+      "listing_id": 12960965628,
+      "event_id": 160287600,
+      "section": "206",
+      "row": "19",
+      "price": 4549.71
+    },
+    {
+      "listing_id": 12928381693,
+      "event_id": 160287600,
+      "section": "224",
+      "row": "19",
+      "price": 4609.74
+    },
+    {
+      "listing_id": 12918510086,
+      "event_id": 160287600,
+      "section": "209",
+      "row": "13",
+      "price": 5821.59
+    },
+    {
+      "listing_id": 12953340173,
+      "event_id": 160287600,
+      "section": "225",
+      "row": "21",
+      "price": 5282.75
+    },
+    {
+      "listing_id": 12965745754,
+      "event_id": 160287600,
+      "section": "106",
+      "row": "24",
+      "price": 12917.8
+    },
+    {
+      "listing_id": 12960965601,
+      "event_id": 160287600,
+      "section": "210",
+      "row": "21",
+      "price": 4777.11
+    },
+    {
+      "listing_id": 12873665963,
+      "event_id": 160287600,
+      "section": "128",
+      "row": "24",
+      "price": 8412.65
+    },
+    {
+      "listing_id": 12948005246,
+      "event_id": 160287600,
+      "section": "115",
+      "row": "23",
+      "price": 8243.87
+    },
+    {
+      "listing_id": 12957183969,
+      "event_id": 160287600,
+      "section": "117",
+      "row": "27",
+      "price": 9529.79
+    },
+    {
+      "listing_id": 12960965599,
+      "event_id": 160287600,
+      "section": "226",
+      "row": "21",
+      "price": 4968.09
+    },
+    {
+      "listing_id": 12945175791,
+      "event_id": 160287600,
+      "section": "101",
+      "row": "34",
+      "price": 6836.59
+    },
+    {
+      "listing_id": 12934519506,
+      "event_id": 160287600,
+      "section": "221",
+      "row": "15",
+      "price": 6212.75
+    },
+    {
+      "listing_id": 12919992221,
+      "event_id": 160287600,
+      "section": "128",
+      "row": "32",
+      "price": 8185.89
+    },
+    {
+      "listing_id": 12965753338,
+      "event_id": 160287600,
+      "section": "125",
+      "row": "22",
+      "price": 9738.73
+    },
+    {
+      "listing_id": 12878819761,
+      "event_id": 160287600,
+      "section": "222",
+      "row": "21",
+      "price": 4925.39
+    },
+    {
+      "listing_id": 12960965606,
+      "event_id": 160287600,
+      "section": "201",
+      "row": "",
+      "price": 4613.33
+    },
+    {
+      "listing_id": 12878792238,
+      "event_id": 160287600,
+      "section": "117",
+      "row": "13",
+      "price": 11450.75
+    },
+    {
+      "listing_id": 12921428606,
+      "event_id": 160287600,
+      "section": "205",
+      "row": "16",
+      "price": 5882.75
+    },
+    {
+      "listing_id": 12960965588,
+      "event_id": 160287600,
+      "section": "111",
+      "row": "23",
+      "price": 8516.14
+    },
+    {
+      "listing_id": 12960965602,
+      "event_id": 160287600,
+      "section": "114",
+      "row": "10",
+      "price": 11634.51
+    },
+    {
+      "listing_id": 12960965607,
+      "event_id": 160287600,
+      "section": "112",
+      "row": "28",
+      "price": 8516.14
+    },
+    {
+      "listing_id": 12814443818,
+      "event_id": 160287600,
+      "section": "124",
+      "row": "32",
+      "price": 8790.76
+    },
+    {
+      "listing_id": 12932635600,
+      "event_id": 160287600,
+      "section": "104",
+      "row": "34",
+      "price": 10059.33
+    },
+    {
+      "listing_id": 12880003624,
+      "event_id": 160287600,
+      "section": "222",
+      "row": "2",
+      "price": 7712.87
+    },
+    {
+      "listing_id": 12949664282,
+      "event_id": 160287600,
+      "section": "116",
+      "row": "33",
+      "price": 9396.15
+    }
+  ],
+  "removed_listings": [],
+  "price_changes": []
+}
