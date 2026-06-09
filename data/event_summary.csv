@@ -420,3 +420,11 @@ scraped_at,event_id,event_name,event_date,venue,total_listings,min_price,max_pri
 2026-06-08T21:56:11Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,196,11182.08,205630.25,
 2026-06-08T21:56:11Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5, If Necessary)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),164,1716.05,87533.37,
 2026-06-08T21:56:11Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),123,4325.17,414416.75,
+2026-06-09T18:20:48Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,253,4182.29,106202.75,
+2026-06-09T18:20:48Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,239,10962.83,209145.25,
+2026-06-09T18:20:48Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),212,1605.98,69687.37,
+2026-06-09T18:20:48Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),130,4801.13,421500.75,
+2026-06-09T18:30:27Z,160286428,"San Antonio Spurs at New York Knicks: NBA Finals (Home Game 2, Series Game 4)",2026-06-10T20:30:00,Madison Square Garden,248,4217.71,107102.75,Hottest event
+2026-06-09T18:30:27Z,160286423,"San Antonio Spurs at New York Knicks: NBA Finals  (Home Game 3, Series Game 6, If Necessary)",2026-06-16T20:30:00,Madison Square Garden,240,10950.75,209145.25,
+2026-06-09T18:30:27Z,160287601,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 3, Series Game 5)",2026-06-13T19:30:00,Frost Bank Center (Formerly AT&T Center),196,1605.98,69687.37,
+2026-06-09T18:30:27Z,160287600,"New York Knicks at San Antonio Spurs: NBA Finals  (Home Game 4, Series Game 7, If Necessary)",2026-06-19T19:30:00,Frost Bank Center (Formerly AT&T Center),128,4822.25,421500.75,

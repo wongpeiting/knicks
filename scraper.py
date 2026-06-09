@@ -29,7 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from playwright.sync_api import sync_playwright
-from playwright_stealth import Stealth
+# Firefox bypasses StubHub WAF without stealth patches
 
 PERFORMER_URL = "https://www.stubhub.com/new-york-knicks-tickets/performer/2742"
 DATA_DIR = Path(__file__).parent / "data"
@@ -97,16 +97,14 @@ def load_previous_scrape():
 
 
 def create_browser():
-    """Create a stealth Playwright browser context with randomized fingerprint."""
+    """Create a Playwright browser context. Uses Firefox to bypass StubHub's WAF."""
     p = sync_playwright().start()
-    browser = p.chromium.launch(headless=True)
+    browser = p.firefox.launch(headless=True)
     context = browser.new_context(
-        user_agent=random.choice(USER_AGENTS),
         viewport={"width": 1920, "height": 1080},
         locale="en-US",
     )
-    stealth = Stealth()
-    return p, browser, context, stealth
+    return p, browser, context
 
 
 def wait_for_full_page(page, timeout_s=45):
@@ -555,11 +553,11 @@ def main():
 
     # ── Step 2: Scrape ──
     error_log = []
-    p, browser, context, stealth = create_browser()
+    p, browser, context = create_browser()
 
     try:
         page = context.new_page()
-        stealth.apply_stealth_sync(page)
+        # No stealth needed — Firefox bypasses WAF
 
         event_links, page_meta = get_event_urls(page)
         if not event_links:
