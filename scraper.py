@@ -250,6 +250,16 @@ def scrape_event(page, event_url, max_retries=2):
     if not html:
         return None
 
+    # Screenshot the seating map
+    try:
+        now_file = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H-%M")
+        event_slug = event_url.split("/event/")[-1].strip("/")
+        ss_dir = DATA_DIR / "screenshots"
+        ss_dir.mkdir(exist_ok=True)
+        page.screenshot(path=str(ss_dir / f"{now_file}_{event_slug}.png"), full_page=False)
+    except Exception:
+        pass
+
     event_data, event_meta = extract_event_data(html)
     if not event_data:
         return None
