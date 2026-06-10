@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-10T21:19:11Z",
+  "errors": [
+    {
+      "url": "https://www.stubhub.com/new-york-knicks-new-york-tickets-6-10-2026/event/160286428/",
+      "error_type": "EmptyResponse",
+      "message": "No listing data captured from page"
+    }
+  ]
+}
